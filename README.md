@@ -43,6 +43,7 @@ Open your terminal or command prompt, navigate to the deployment folder containi
 ```bash
 java -jar MineSweeper.jar
 ```
+
 ##🧱 Project Directory Structure
 
 ```text
@@ -65,6 +66,7 @@ projectBoom/
 ```
 
 ##👥 Development Team & Contributions
+
 Vance Weng
 
 </br>
