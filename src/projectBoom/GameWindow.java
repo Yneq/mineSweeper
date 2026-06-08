@@ -328,7 +328,7 @@ public class GameWindow extends JFrame implements Printable {
 	            buttons[x][y].setForeground(Color.BLACK); 
 	            
 	            buttons[x][y].setBackground(new Color(210, 210, 210));
-	            buttons[x][y].setBorderPainted(false); // 配合你的初始化設定
+	            buttons[x][y].setBorderPainted(false);
 	        }
 	    }
 	    
