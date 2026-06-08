@@ -33,7 +33,7 @@ public class SoundManager {
                 
                 clip.loop(Clip.LOOP_CONTINUOUSLY); 
                 
-                clip.start();
+                clip.start(); // 背景音樂loop
             } else {
                 System.out.println("找不到背景音樂檔案：" + filePath);
             }

@@ -52,7 +52,7 @@ public class GameWindow extends JFrame implements Printable {
 	private ImageIcon bombIcon;
 
 	public static void main(String[] args) {
-		// 🎸 遊戲視窗一打開，立刻在後台無限循環播放背景音樂！
+		// 背景音樂
 		SoundManager.playBackgroundMusic("background.wav");
 		
 		EventQueue.invokeLater(new Runnable() {
