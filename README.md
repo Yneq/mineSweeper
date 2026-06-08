@@ -44,7 +44,7 @@ Open your terminal or command prompt, navigate to the deployment folder containi
 java -jar MineSweeper.jar
 ```
 
-##🧱 Project Directory Structure
+## 🧱 Project Directory Structure
 
 ```text
 projectBoom/
@@ -65,7 +65,7 @@ projectBoom/
 └── win.wav                      # Game Completion Victory Fanfare
 ```
 
-##👥 Development Team & Contributions
+## 👥 Development Team & Contributions
 
 Vance Weng
 
